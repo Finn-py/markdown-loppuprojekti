@@ -1,5 +1,6 @@
 ## <Ossi Muhonen> web-tehtävä
 
+
 _not_
 
 **Will**
@@ -67,23 +68,23 @@ Here's another [StumbleUpon][2]
 # **_page 4_**
 
 * Shopping list
- * Flour
- * Milk
- * Beer
- * Coffee 
- * Meat
- * Toilet paper
+   * Flour
+   * Milk
+   * Beer
+   * Coffee 
+   * Meat
+   * Toilet paper
 
  ### Cake recipe
 
 * Ingredients 
- * 1 cup white sugar
- * ½ cup unsalted butter
- * 2 large eggs
- * 2 teaspoons vanilla extract
- * 1 ½ cups all-purpose flour
- * 1 ¾ teaspoons baking powder
- *  ½ cup milk
+   * 1 cup white sugar
+   * ½ cup unsalted butter
+   * 2 large eggs
+   * 2 teaspoons vanilla extract
+   * 1 ½ cups all-purpose flour
+   * 1 ¾ teaspoons baking powder
+   *  ½ cup milk
 
 #### Step by step
 
@@ -102,9 +103,9 @@ Here's another [StumbleUpon][2]
 4. Heath violet _Viola canina_
 
 * _Ossi_
- * Student
- * Brown hair
- * Loves rum + monster
+   * Student
+   * Brown hair
+   * Loves rum + monster
 
 # **_page 5_**
 
