@@ -37,7 +37,7 @@ Here's another [StumbleUpon][2]
 [1]: http://www.zombo.com
 [2]: http://www.stumbleupon.com
 
-![A pretty tiger]: (https://octodex.github.com/images/bannekat.png)
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/1200px-Walking_tiger_female.jpg)
 
 [Black][3] 
 
