@@ -75,7 +75,7 @@ Here's another [StumbleUpon][2]
    * Meat
    * Toilet paper
 
- ### Cake recipe
+### Cake recipe
 
 * Ingredients 
    * 1 cup white sugar
