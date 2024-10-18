@@ -66,21 +66,26 @@ Here's another [StumbleUpon][2]
 
 # **_page 4_**
 
-* Flour
-* Milk
-* Beer
-* Coffee 
-* Meat
-* Toilet paper
+* Shopping list
+ * Flour
+ * Milk
+ * Beer
+ * Coffee 
+ * Meat
+ * Toilet paper
 
-Ingredients 
-* 1 cup white sugar
-* ½ cup unsalted butter
-* 2 large eggs
-* 2 teaspoons vanilla extract
-* 1 ½ cups all-purpose flour
-* 1 ¾ teaspoons baking powder
-*  ½ cup milk
+ ### Cake recipe
+
+* Ingredients 
+ * 1 cup white sugar
+ * ½ cup unsalted butter
+ * 2 large eggs
+ * 2 teaspoons vanilla extract
+ * 1 ½ cups all-purpose flour
+ * 1 ¾ teaspoons baking powder
+ *  ½ cup milk
+
+#### Step by step
 
 1. Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 9-inch square cake pan.
 2. Cream sugar and butter together in a mixing bowl. Add eggs, one at a time, beating briefly after each addition. Mix in vanilla.
@@ -89,13 +94,14 @@ Ingredients
 5. Bake in the preheated oven until the top springs back when lightly touched, 30 to 40 minutes.
 6. Remove from the oven and cool completely. Frost and enjoy!
 
+### Plants
 
 1. Dianthus _Dianthus acicularis_
 2. Dandelion _Taraxacum_
 3. Common sunflower _Helianthus annuus_
 4. Heath violet _Viola canina_
 
-* Ossi
+* _Ossi_
  * Student
  * Brown hair
  * Loves rum + monster
