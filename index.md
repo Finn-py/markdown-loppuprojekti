@@ -24,7 +24,7 @@ _Of course_ **a little moxie**
 
 ###### This is header six
 
-# **_page 2_**
+# **_Links and pictures_**
 
 [<u>Search for it</u>](https://www.google.com)
 
@@ -47,7 +47,7 @@ Here's another [StumbleUpon][2]
 [3]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [4]: https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
-# **_page 3_**
+# **_Blockquotes_**
 
 > "In a few moments he was barefoot, his stockings folded in his pockets and his
 > canvas shoes dangling by their knotted laces over his shoulders and, picking a
@@ -65,7 +65,7 @@ Here's another [StumbleUpon][2]
 
 > "_Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book._"
 
-# **_page 4_**
+# **_Lists_**
 
 * Shopping list
    * Flour
@@ -107,7 +107,7 @@ Here's another [StumbleUpon][2]
    * Brown hair
    * Loves rum + monster
 
-# **_page 5_**
+# **_Paragraphs_**
 
 1. **Crack three eggs over a bowl**.
 
