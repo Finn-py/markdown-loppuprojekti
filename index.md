@@ -40,9 +40,9 @@ Here's another [StumbleUpon][2]
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/1200px-Walking_tiger_female.jpg)
 
-[Black][3] 
+![Black][3] 
 
-[Cat][4] 
+![Cat][4] 
 
 [3]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 [4]: https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
